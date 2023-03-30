@@ -1,11 +1,12 @@
 {
-  "name": "parcel-project-template",
+  "name": "projekt_HTML_CSS_grupa_3",
   "version": "1.1.0",
   "description": "",
-  "homepage": "https://github.com/migace/parcel-project-template-pl-main",
+  "homepage": "https://Magdalena2206.github.io/projekt_HTML_CSS_grupa_3",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url parcel-project-template-pl-main"
+    "scripts": {
+      "build": "parcel build src/*.html --public-url /projekt_HTML_CSS_grupa_3/"}
   },
   "repository": {
     "type": "git",
